@@ -1,5 +1,7 @@
 Hello dear friends!
 
+Note: You can find some raw materials in "master" branch.
+
 ## In this session, we will make a change to our configuration and then validate and apply the change.
    We'll also do some cleanup to avoid extra charges by running a destroy command.
    
