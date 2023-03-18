@@ -18,7 +18,7 @@ provider "azurerm" {
 
 <CREATE ME>
 
-# Create a virtual network
+# create a virtual network
 resource "azurerm_virtual_network" "vnet" {
   name                = "BatmanInc"
   address_space       = ["10.0.0.0/16"]
